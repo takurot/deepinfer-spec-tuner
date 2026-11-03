@@ -28,4 +28,4 @@ deepinfer-spec-tuner \
 
 ## ライセンス
 
-未定。
+[MIT](LICENSE)
